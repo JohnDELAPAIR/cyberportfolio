@@ -11,5 +11,3 @@
 
 ### Why This Matters For Tier 1 SOC
 This is exactly what entry-level analysts do daily—understand alerts, follow triage process.
-
----
