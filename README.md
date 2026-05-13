@@ -13,4 +13,3 @@
 This is exactly what entry-level analysts do daily—understand alerts, follow triage process.
 
 ---
-*Next: Phishing Investigation lab*
